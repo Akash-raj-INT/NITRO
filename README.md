@@ -29,7 +29,7 @@ Upload a file using **form-data**:
 ### 📃 List Files
 `GET /files`
 
-Returns all uploaded files.
+Returns CSV uploaded files.
 
 ---
 
